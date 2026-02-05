@@ -1,6 +1,6 @@
 # Anthropic 프롬프트 엔지니어링 인터랙티브 튜토리얼 (한국어 심화 가이드)
 
-이 저장소는 [Anthropic의 공식 프롬프트 엔지니어링 튜토리얼](https://github.com/anthropic-inc/prompt-eng-interactive-tutorial)을 기반으로, 한국어 사용자들을 위해 **심화된 설명과 실전적인 예제**를 보강하여 재구성한 가이드입니다.
+이 저장소는 [Anthropic의 공식 프롬프트 엔지니어링 튜토리얼](https://github.com/anthropics/prompt-eng-interactive-tutorial)을 기반으로, 한국어 사용자들을 위해 **심화된 설명과 실전적인 예제**를 보강하여 재구성한 가이드입니다.
 
 단순한 번역을 넘어, 한국어 뉘앙스를 고려한 프롬프트 작성법과 최신 Claude 3 모델의 특성을 반영한 Best Practice를 담았습니다.
 
